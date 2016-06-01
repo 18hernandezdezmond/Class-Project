@@ -27,6 +27,6 @@ Our teacher told us to create a  website about ourselves for our final.
 <img src ="http://www.logodesignlove.com/wp-content/uploads/2011/04/nba-logo-on-wood.jpg"/>
 </a></body>
 
-<p>But thats all I have to say about me</p>
-
+<p>But thats all I have to say about me.</p>
+<body><img src ="http://vignette2.wikia.nocookie.net/looneytunes/images/e/e1/All.jpg/revision/latest?cb=20150313020828"/></body>
 
